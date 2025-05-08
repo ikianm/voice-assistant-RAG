@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+
+streamlit
+
+soundfile
+sounddevice
+elevenlabs
