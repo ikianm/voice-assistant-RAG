@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 import tempfile
 
-from documnet_processor import DocumentProcessor
+from document_processor import DocumentProcessor
 from voice_assistant_rag import VoiceAssistantRAG
 
 load_dotenv()
